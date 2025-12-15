@@ -1,0 +1,8 @@
+Primeira aula de JavaScript
+
+Na aula, o professor Gustavo Guanabara explica a importância do JavaScript, destacando seu uso em plataformas populares como Google, YouTube e até em sistemas do governo. A linguagem torna as páginas mais dinâmicas, simples e acessíveis para os usuários, também chamados de clientes.
+Inicialmente, o JavaScript foi criado para rodar no lado do cliente, ou seja, nas máquinas dos usuários (computadores, celulares e outros dispositivos eletrônicos). Embora possa ser utilizado no lado do servidor, esse não é o seu foco principal.
+Dentro da estrutura do HTML, temos três tecnologias fundamentais:
+O HTML, responsável por estruturar o conteúdo e definir o código-fonte da página;
+O CSS, que serve para estilizar e aprimorar a apresentação visual do HTML;
+E o JavaScript, que é responsável pelas interações e comportamentos da página.
