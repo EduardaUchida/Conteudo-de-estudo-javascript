@@ -1,0 +1,49 @@
+Segunda aula de JavaScript
+
+Na segunda aula com o professor Gustavo Guanabara, foram apresentados os principais pontos da história do JavaScript.
+
+[1970] – DARPA
+Com o surgimento da internet, influenciado pelo contexto da Guerra Fria nos anos 60, surgiu a necessidade de manter a comunicação mesmo diante de possíveis bombardeios que poderiam derrubar servidores. Esse projeto ficou conhecido como ARPANET.
+
+[1993] – Tim Berners-Lee (TBL)
+Em Genebra, foi o responsável pela criação da linguagem HTML, do protocolo HTTP e pela fundação da World Wide Web (WWW).
+
+[1994] – Netscape
+Foi criado um navegador web, o Netscape Navigator.
+
+[1995] – Brendan Eich
+Desenvolvedor que criou uma linguagem para adicionar mais funcionalidade ao HTML. Inicialmente chamada de Mocha, a linguagem teve seu nome alterado para JavaScript por motivos de marketing, aproveitando a popularidade da linguagem Java.
+Com o sucesso do JavaScript, a Microsoft lançou sua própria versão, chamada JScript, utilizada no Internet Explorer.
+
+[1997] – ECMA
+Com a Netscape, fundada por Marc Andreessen e James H. Clark, foi solicitada à ECMA a padronização da linguagem para evitar conflitos e cópias. Assim surgiu o ECMAScript, que é o padrão oficial do JavaScript.
+
+[2002] – Fundação Mozilla
+Após a falência da Netscape, um grupo de ex-colaboradores fundou a Fundação Mozilla, responsável pelo navegador Firefox. Com o tempo, perdeu espaço para um concorrente forte: o Google Chrome.
+
+[2009] – Google e o V8
+A Google trouxe um grande diferencial ao lançar o V8, um motor JavaScript com tecnologia Just-In-Time (JIT), que aumentou significativamente o desempenho da linguagem.
+
+[2010] – Node.js
+Um grupo de desenvolvedores percebeu o potencial do V8, que era de código aberto, mas funcionava apenas no navegador Chrome. Eles o adaptaram e criaram uma plataforma capaz de executar JavaScript fora dos navegadores: o Node.js.
+
+ECMAScript
+Como dito anteriormente, o ECMAScript é o JavaScript padronizado pela ECMA. Suas atualizações ocorreram da seguinte forma:
+[1997] – ECMAScript 1.0
+Padronização do JavaScript 1.1 pela ECMA.
+[1998] – ECMAScript 2.0
+Trouxe pequenas correções e ajustes editoriais.
+[1999] – ECMAScript 3.0
+Introduziu compatibilidade com expressões regulares e o bloco try/catch para tratamento de erros.
+[2000] – ECMAScript 4.0
+As expectativas para essa versão foram grandes, porém ela nunca foi lançada, pois era muito complexa.
+[2009] – ECMAScript 5 (ES5)
+Versão muito popular, com alta compatibilidade entre os navegadores.
+[2015] – ECMAScript 6 (ES6 / ES2015)
+Introduziu grandes mudanças, como let e const, arrow functions, templates strings, classes e módulos.
+[2016] – ECMAScript 2016 (ES7)
+Adicionou o operador de exponenciação (**).
+[2018] – ECMAScript 2018 (ES9)
+Trouxe melhorias em Promises, async/await e expressões regulares.
+
+Várias ferramnetas surgiram a partir da linguagem JS. E é extremamente necessário o conhecimento com a linguagem para aprender sobre. 
