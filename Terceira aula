@@ -1,0 +1,19 @@
+Terceira aula de JavaScript
+
+Primeiros passos efetivos em JavaScript
+Escolher aprender uma nova linguagem de programação requer atitude e prática.
+
+Onde conseguir conteúdo e referências:
+https://developer.mozilla.org/
+https://ecma-international.org/publications-and-standards/standards/ecma-262/
+Esses links contêm as referências da ECMA e da Mozilla, com todos os comandos explicados de forma técnica.
+
+Para dar os primeiros passos, é necessário:
+Um navegador (Chrome, Internet Explorer, etc.);
+Um editor de código (Visual Studio Code, Sublime, Atom, etc.);
+De preferência, o Node.js, que facilita a execução do JavaScript fora do navegador.
+
+Para instalar o navegador, basta pesquisar pelo de sua preferência. No meu caso, utilizarei o Google Chrome.
+Para baixar o Visual Studio Code, que é gratuito e funciona em múltiplas plataformas, basta pesquisar pelo nome ou acessar:
+https://code.visualstudio.com/
+Para instalar o Node.js, pesquise pelo site oficial e faça o download da versão recomendada.
