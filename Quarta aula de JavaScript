@@ -1,0 +1,34 @@
+Quarta aula de JavaScript
+
+Criando o primeiro script
+Estudar a base da linguagem não é perda de tempo. Nas primeiras aulas, descobrimos a diferença entre JavaScript e ECMAScript, além de aprendermos que Java e JavaScript são linguagens totalmente diferentes.
+
+Todo documento para a criação de um site é dividido em três partes:
+Conteúdo – HTML
+Design – CSS
+Interatividade – JavaScript
+
+Nesta aula, é utilizado o sistema Windows, devido ao seu grande público.
+Na primeira aula de script, é ensinado como organizar os arquivos. 
+
+“Um bom programador organiza seus arquivos.”
+
+Para isso, é necessário criar uma nova pasta com um nome adequado.
+Em seguida, deve-se clicar em File, depois em Open Folder, e selecionar a pasta criada.
+No VS Code, utilize o ícone New File para criar um novo arquivo e nomeá-lo corretamente.
+É necessário definir o tipo de arquivo. Nesta aula, o arquivo é HTML, portanto deve ser salvo como, por exemplo: nome.html (a extensão .html é obrigatória).
+Em letras minúsculas, digite html e, no IntelliSense, selecione html:5, que é a versão mais atual.
+Isso cria a estrutura básica do HTML, contendo as tags head e body.
+head: contém as configurações da página
+body: contém o conteúdo que será exibido
+Entre as tags <title> deve ser definido o nome do site.
+A tag <h1> define um título de nível 1.
+A tag <p> cria um parágrafo.
+A tag <style> é usada para estilização e deve ser colocada dentro do head, pois faz parte das configurações da página.
+O JavaScript deve ser adicionado antes do fechamento da tag </body>, para que o script seja carregado após os elementos principais da página.
+Basta digitar script, e o editor completará automaticamente com as tags <script></script>.
+O JavaScript é uma linguagem de programação. Já o HTML e o CSS são linguagens de marcação.
+Exemplo de comando em JavaScript ensinado:
+window.alert(""); — cria uma mensagem de alerta na página. Só com a opção de "ok" 
+window.confirm (""); — cria uma mensagem de alerta com duas opções. "ok" e "cancela" 
+window.prompt (""); — cria uma mensagem de alerta com um campo de escrita. 
